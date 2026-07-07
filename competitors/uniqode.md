@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | **Website** | — (no URL given in the sources; formerly beaconstac.com) |
-| **Pricing** | Annual billing only. Entry plan **~$5/mo** (Starter) as of 2026-07-07 — restructured since the source articles (which listed Essential $9 → Core $49 → Plus $99 → Business+ $399); see the Pricing note below |
+| **Pricing** | Four QR plans, all billed annually only: **Essential $9/mo** ($108/yr, lowest plan), Core $49/mo ($588/yr), Plus $99/mo ($1,188/yr), Business+ $399/mo ($4,788/yr) |
 | **Free tier** | No ongoing free dynamic plan — a 14-day trial (no card required), after which dynamic codes go inactive; a free static generator is available |
 | **G2 rating** | 4.8/5 (507 reviews) |
 | **Trustpilot rating** | 3.7/5 (19 reviews) |
@@ -25,9 +25,7 @@
 | Plus | $99/mo ($1,188/yr, annual billing only) | 500 codes, 3 users; 180-day analytics retention; phone support from this tier. |
 | Business+ | $399/mo ($4,788/yr, annual billing only) | 2,000 codes; lifetime analytics retention; white-label dashboard only at this tier. |
 
-Four QR plans from $9/month (Essential) to $399/month (Business+), all billed annually only with no monthly option — $108 to $4,788 per year paid upfront.
-
-> **Update 2026-07-07:** Uniqode appears to have restructured its pricing since the source articles. The live entry plan is **Starter at ~$5/mo** (annual), with a ladder of roughly **$5 → $15 → $49 → $99 → custom**. The table above reflects the April-2026 figures; the live pricing page is JS-rendered, so treat the new numbers as corroborated-not-page-confirmed. See the [verification log](../VERIFICATION.md).
+Four QR plans from $9/month (Essential) to $399/month (Business+), all billed annually only with no monthly option — $108 to $4,788 per year paid upfront. Essential ($9/mo, annual only) is the lowest plan (owner-confirmed 2026-07-07; a live-web reading of "$5/mo" was incorrect and has been reverted).
 
 ## Free Tier
 

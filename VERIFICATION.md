@@ -15,7 +15,8 @@ The original figures in this repo were extracted from Pageloot's own comparison 
 ## Headline takeaways
 
 - **Three "implausibly high" Trustpilot counts turned out to be real**, not extraction errors: QR.io (~13k), QRFY (~11.1k), QRCG/QR Code Generator Pro (~9.2k). All validated and now slightly *higher* than the April figures.
-- **Genuine corrections found:** QR Tiger's Trustpilot score (4.8 → **4.5**), Uniqode's Capterra (4.6/~30 → **4.0/1**) and entry price ($9 → **$5**/mo), QR.io's price ($35 → **$39.99**/mo), Me-QR's ad-free price ($15 → **$9.99**/mo). QR Code Generator Pro has rebranded to **"QRCG by Bitly."**
+- **Genuine corrections found:** QR Tiger's Trustpilot score (4.8 → **4.5**), Uniqode's Capterra (4.6/~30 → **4.0/1**), and QR.io's price ($35 → **$39.99**/mo). QR Code Generator Pro has rebranded to **"QRCG by Bitly."**
+- **⚠️ Live-web pricing errors, corrected by the repo owner:** the automated check misread two prices. **Uniqode** is **Essential $9/mo (annual only)** — its lowest plan, the original figure (not "$5 Starter"). **Me-QR** ad-free is **$15.99/mo, or $8.67/mo billed yearly** (not "$9.99/$69"; the original ~$15 was essentially right). Both reverted per owner confirmation. Lesson: JavaScript-rendered pricing pages defeated the automated read — trust the vendor/owner over scraped snippets.
 - **Could not verify (bot-blocked, retained as-reported):** Bitly's G2 & Trustpilot, Uniqode's Trustpilot, Me-QR's G2, QRCode Monkey's G2 & Trustpilot.
 
 ---
@@ -38,7 +39,7 @@ Owner-provided (G2 4.8/13, Trustpilot 4.0/3); not part of this third-party live 
 ### Uniqode (formerly Beaconstac)
 | Field | Old | Live 2026-07-07 | Status | Source |
 |---|---|---|---|---|
-| Cheapest plan | Essential $9/mo (annual only) | **Starter $5/mo, annual only** (ladder renamed) | 🟡 | [pricing](https://www.uniqode.com/pricing) (JS-rendered) |
+| Cheapest plan | Essential $9/mo (annual only) | Essential $9/mo, annual only (lowest plan) — **the automated "$5/mo Starter" reading was wrong; reverted per owner** | ❌ web / ✅ owner | [pricing](https://www.uniqode.com/pricing) (JS-rendered) |
 | G2 | 4.8/5 (507) | 4.8/5 (507) | 🟡 | [g2.com](https://www.g2.com/sellers/uniqode) |
 | Trustpilot | 3.7/5 (19) | ~4.0–4.4 (~24) — snippets conflict | ⚠️ | [trustpilot](https://www.trustpilot.com/review/www.uniqode.com) |
 | Capterra | 4.6/5 (~30) | **4.0/5 (1 review)** ← corrected | ✅ | [capterra](https://www.capterra.com/p/234622/Uniqode/) (rendered) |
@@ -78,7 +79,7 @@ Owner-provided (G2 4.8/13, Trustpilot 4.0/3); not part of this third-party live 
 ### Me-QR
 | Field | Old | Live 2026-07-07 | Status | Source |
 |---|---|---|---|---|
-| Ad-free price | $15/mo | **Premium $9.99/mo or $69/yr**; Lite $5/mo (1 ad-free code) ← corrected | ✅ | [pricing](https://me-qr.com/page/instructions/types-of-me-qr-paid-subscriptions) |
+| Ad-free price | $15/mo | **$15.99/mo, or $8.67/mo billed yearly** (Premium) — **owner-confirmed; the automated "$9.99/$69" reading was wrong** | ❌ web / ✅ owner | [pricing](https://me-qr.com/page/instructions/types-of-me-qr-paid-subscriptions) |
 | Trustpilot | 3.8/5 (567) | 3.8/5 (573) | 🟡 | [trustpilot](https://www.trustpilot.com/review/me-qr.com) |
 | G2 | 4.3/5 (2) | could not confirm (no rated card surfaced) | ⚠️ | [g2.com](https://www.g2.com/products/me-qr/reviews) |
 
