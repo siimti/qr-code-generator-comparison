@@ -13,7 +13,7 @@ Each tool has a detailed breakdown in [`competitors/`](competitors/). Click any 
 
 | Generator | Pricing (from) | Free tier | G2 | Trustpilot | Product Hunt | Biggest strength | Biggest watch-out |
 |---|---|---|---|---|---|---|---|
-| **[Pageloot](competitors/pageloot.md)** | **$7/mo** (annual); monthly from $30; **lifetime $197+** | Free static — no signup, ads, or expiry; dynamic = 14-day trial | — ᵃ | — ᵃ | — ᵃ | One-time **lifetime deals** keep dynamic codes active forever (no competitor offers this) | No public API, Smart Rules, or CRM integrations yet ("in progress") |
+| **[Pageloot](competitors/pageloot.md)** | **$7/mo** (annual); monthly from $30; **lifetime $197+** | Free static — no signup, ads, or expiry; dynamic = 14-day trial | 4.8 (13) ᵃ | 4.0 (3) ᵃ | — | One-time **lifetime deals** keep dynamic codes active forever (no competitor offers this) | No public API, Smart Rules, or CRM integrations yet ("in progress") |
 | **[Bitly](competitors/bitly.md)** | **$10/mo** (Core, annual only) | 2 QR/mo; editing paywalled; ads on free scans | 4.5 (916) ᵇ | 2.3 (694) | — | Industry-leading **link management** (branded short links, analytics) | Free QR codes can't be edited — destination changes require a paid plan |
 | **[Flowcode](competitors/flowcode.md)** | **$25/mo** (Pro Plus, annual); free plan | 2 dynamic codes, 500 scans; Flowcode branding | 4.6 (85) | 3.6 (36) | — | Most **visually polished**, artist-designed codes | 10× price jump: $25/mo → $250/mo Growth with nothing in between |
 | **[Me-QR](competitors/me-qr.md)** | **Free** (ads); ad-free from **$15/mo** | Free dynamic codes — but an ad interstitial on every scan | 4.3 (2) ᶜ | 3.8 (567) | — | Genuinely **free dynamic codes** + 46+ QR types | Ads on scans through the $9/mo tier; fully ad-free needs $15/mo |
@@ -26,7 +26,7 @@ Each tool has a detailed breakdown in [`competitors/`](competitors/). Click any 
 
 **Table notes**
 
-- ᵃ **Pageloot** publishes no third-party rating — its own pages state it has too few public reviews on G2/Trustpilot/Product Hunt to display one, and left the fields blank "rather than cherry-picking."
+- ᵃ **Pageloot's** G2 (4.8/5, 13 reviews) and Trustpilot (4.0/5, 3 reviews) figures are current ratings provided by the repo owner; the 2026 source articles themselves reported no public rating yet. No Product Hunt score.
 - ᵇ **Bitly's** 4.5/916 G2 score is for its **link-shortening product**, not the QR feature specifically.
 - ᶜ **Me-QR's** 4.3 G2 rests on just **2 reviews** (a weak sample, per Pageloot).
 - ᵈ **QR Tiger** has no numeric Product Hunt score but was awarded **"Most Innovative Product"** there.

@@ -2,7 +2,7 @@
 
 # Pageloot
 
-*All data on this page is extracted from comparison articles published by Pageloot itself on pageloot.com (2026) — i.e. first-party marketing material, not independent review data.*
+*Except where noted (see Ratings), data on this page is extracted from comparison articles published by Pageloot itself on pageloot.com (2026) — i.e. first-party marketing material, not independent review data.*
 
 ## At a Glance
 
@@ -11,8 +11,8 @@
 | **Website** | [pageloot.com](https://pageloot.com) |
 | **Pricing** | From $7/mo billed annually (Starter, $84/yr); monthly billing from $30/mo; lifetime deals $197 / $297 / $897 one-time |
 | **Free tier** | Free static QR generator — no signup, no expiry, no ads; dynamic codes paid after a 14-day trial |
-| **G2 rating** | None published — not enough public reviews yet |
-| **Trustpilot rating** | None published — not enough public reviews yet |
+| **G2 rating** | 4.8/5 (13 reviews) |
+| **Trustpilot rating** | 4.0/5 (3 reviews) |
 | **Product Hunt rating** | — |
 | **Best for** | Marketing agencies and teams managing ~10–50 client brands needing client reports, white-label, UTM attribution, and print templates |
 
@@ -36,8 +36,8 @@ Free static QR code generator at `/qr-code-generator/` — no signup, no payment
 
 ## Ratings
 
-- **G2:** None published — Pageloot's own pages state it doesn't yet have enough public reviews on G2 to display a rating.
-- **Trustpilot:** None published — same explicit statement in the sources; the fields were "left blank rather than cherry-picking."
+- **G2:** 4.8/5 (13 reviews) — current figure provided by the repo owner (Pageloot); the 2026 source articles reported no public rating yet.
+- **Trustpilot:** 4.0/5 (3 reviews) — current figure provided by the repo owner; the 2026 source articles reported no public rating yet.
 - **Product Hunt:** None published — no Product Hunt rating for Pageloot appears in any of the 11 source pages.
 - **Other:** None — no Capterra, SourceForge, BBB, or other third-party rating for Pageloot is stated in any source; ratings on these pages are given only for competitors.
 
@@ -87,7 +87,7 @@ Free static QR code generator at `/qr-code-generator/` — no signup, no payment
 ## Notes
 
 - **First-party source warning:** all 11 source articles are published by Pageloot itself on pageloot.com — this record IS Pageloot describing itself, so every claim is first-party marketing. The two roundups rank Pageloot #1 with a disclosure, and the head-to-heads are its own comparison landing pages (though they include "when the competitor is better" sections and self-criticism).
-- **No third-party rating exists:** the sources explicitly state Pageloot doesn't yet have enough public reviews on Trustpilot/G2/Capterra/Product Hunt to display a rating, and say the fields were left blank rather than cherry-picking.
+- **Ratings provenance:** the 2026 source articles stated Pageloot didn't yet have enough public reviews on G2/Trustpilot/Capterra/Product Hunt to display a rating. The G2 (4.8/5, 13 reviews) and Trustpilot (4.0/5, 3 reviews) figures shown above are current ratings provided by the repo owner (Pageloot), updated after those articles were published.
 - **Conflicts found in sources:** (1) QR type count — comparison tables across all articles list 15 dynamic QR types, but one article's FAQ says "Both offer 16 dynamic QR code types"; 15 is kept here as the consistent table value. (2) One comparison table marks an in-app QR scanner "not available" for Pageloot while the site navigation advertises a free QR scanner tool — likely referring to an in-dashboard scanner.
 - **Self-reported company facts (Pageloot-attributed):** established 2019, bootstrapped, 20,000+ brands in 110 countries, 870+ agencies in 68 countries.
 - **Best for:** marketing agencies and teams managing roughly 10–50 client brands (restaurants, e-commerce, local businesses) who need client-facing reports, white-label deliverables, UTM attribution, print templates, and monthly billing flexibility — plus anyone wanting permanent code ownership via the lifetime deal or free static codes without signup. Not a fit for enterprise compliance, API-driven, or GS1 packaging use cases (the articles themselves recommend Uniqode or QR Tiger there).
