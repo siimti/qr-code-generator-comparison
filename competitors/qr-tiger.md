@@ -10,7 +10,7 @@
 |---|---|
 | **Website** | qrcode-tiger.com |
 | **Pricing** | Four subscription tiers: Regular $7/mo, Advanced $16/mo, Premium $37/mo, Business $89/mo — monthly billing only on Regular; no lifetime option |
-| **Free tier** | Free static QR codes with no signup; dynamic codes only via a scan-capped free trial (~100 scans/yr) |
+| **Free tier** | Free static QR codes with no signup; free plan also includes 3 dynamic codes, 500 scans each (total lifetime cap) |
 | **G2 rating** | 4.8/5 (145 reviews) |
 | **Trustpilot rating** | 4.8/5 (158 reviews) |
 | **Product Hunt rating** | — (no numeric rating given; awarded "Most Innovative Product" on Product Hunt per the head-to-head article) |
@@ -29,7 +29,7 @@ Four recurring subscription tiers: Regular $7/mo ($84/yr), Advanced $16/mo ($192
 
 ## Free Tier
 
-Free static QR codes with no signup (Reddit roundup feature matrix). Dynamic codes are available only via a free trial/plan with a scan cap — roughly 100 scans per year per the Reddit roundup, after which trial codes stop working. The head-to-head paraphrases a G2 reviewer who hit the free plan's scan limit after printing thousands of hotel labels.
+Free static QR codes with no signup (Reddit roundup feature matrix). The free plan also includes **3 dynamic QR codes, each capped at 500 scans as a total lifetime limit** — after which the codes stop working and an upgrade is required. (Pageloot's roundup characterized this loosely as a ~100-scans/year cap; the 3-codes / 500-scans-each figure reflects QR Tiger's actual free-plan terms.) The head-to-head paraphrases a G2 reviewer who hit the free plan's scan limit after printing thousands of hotel labels.
 
 ## Ratings
 
@@ -74,7 +74,7 @@ Free static QR codes with no signup (Reddit roundup feature matrix). Dynamic cod
 
 - **Annual lock-in above the entry tier:** monthly billing exists only on the $7 Regular plan, while Advanced ($16/mo), Premium ($37/mo), and Business ($89/mo) must be paid annually.
 - **No lifetime option** — 3 years on Regular costs $252.
-- **Scan-capped free/trial dynamic codes:** roughly 100 scans/yr per the Reddit roundup, and codes stop working afterward — though both roundups rate its trial-trap risk "Low".
+- **Scan-capped free dynamic codes:** the free plan gives 3 dynamic codes with a 500-scan total lifetime cap each, after which they stop working — though both roundups rate its trial-trap risk "Low".
 - **Designs cannot be edited after creation** without recreating the code.
 
 ## Notes

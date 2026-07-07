@@ -1,6 +1,6 @@
 # QR Code Generator Comparison (2026)
 
-A side-by-side comparison of **10 QR code generator platforms** — pricing, third-party ratings, free-tier details, and pros/cons — extracted from a set of published Pageloot comparison articles (2026).
+A side-by-side comparison of **10 QR code generator platforms** — pricing, third-party ratings, free-tier details, and pros/cons — extracted from a set of published [Pageloot](https://pageloot.com) comparison articles (2026).
 
 Each tool has a detailed breakdown in [`competitors/`](competitors/). Click any name in the table to open it.
 
@@ -17,7 +17,7 @@ Each tool has a detailed breakdown in [`competitors/`](competitors/). Click any 
 | **[Bitly](competitors/bitly.md)** | **$10/mo** (Core, annual only) | 2 QR/mo; editing paywalled; ads on free scans | 4.5 (916) ᵇ | 2.3 (694) | — | Industry-leading **link management** (branded short links, analytics) | Free QR codes can't be edited — destination changes require a paid plan |
 | **[Flowcode](competitors/flowcode.md)** | **$25/mo** (Pro Plus, annual); free plan | 2 dynamic codes, 500 scans; Flowcode branding | 4.6 (85) | 3.6 (36) | — | Most **visually polished**, artist-designed codes | 10× price jump: $25/mo → $250/mo Growth with nothing in between |
 | **[Me-QR](competitors/me-qr.md)** | **Free** (ads); ad-free from **$15/mo** | Free dynamic codes — but an ad interstitial on every scan | 4.3 (2) ᶜ | 3.8 (567) | — | Genuinely **free dynamic codes** + 46+ QR types | Ads on scans through the $9/mo tier; fully ad-free needs $15/mo |
-| **[QR Tiger](competitors/qr-tiger.md)** | **$7/mo** (Regular) | Free static; dynamic trial ~100 scans/yr | 4.8 (145) | 4.8 (158) | — ᵈ | **Highest review scores** among paid tools; conditional routing, GS1, Canva | Monthly billing only on the $7 tier; no lifetime option |
+| **[QR Tiger](competitors/qr-tiger.md)** | **$7/mo** (Regular) | Free static; 3 free dynamic codes, 500 scans each (lifetime cap) | 4.8 (145) | 4.8 (158) | — ᵈ | **Highest review scores** among paid tools; conditional routing, GS1, Canva | Monthly billing only on the $7 tier; no lifetime option |
 | **[QR.io](competitors/qr-io.md)** | **$35/mo** | "Free" — but codes deactivate after a 7-day trial | 4.5 (462) | 4.3 (12,778) | 1.1 (25) | Works for active subscribers; strong design customization | **7-day trap**: trial codes die; $35/mo is the only reactivation path |
 | **[QR Code Generator Pro](competitors/qr-code-generator-pro.md)** | **$120/yr** (~$10/mo, Starter) | Free static; dynamic trial deactivates at 14 days | 3.4 (54) | 1.5 (9,194) | — | Functional core (dynamic codes, analytics, customization) | Trial codes die at 14 days; **no-refund** annual Starter |
 | **[QRCode Monkey](competitors/qrcode-monkey.md)** | **Free** (static only) | Unlimited free static, free SVG, no ads | — | 1.8 (41) | — | Static codes **genuinely free** — no signup, expiry, or limits | Static only — codes can't be edited; parent product is "abandoned" |
@@ -47,7 +47,7 @@ The Pageloot articles repeatedly frame competitors around how their free/trial t
 | Me-QR | Free/low-tier codes show an **ad interstitial on every scan** |
 | Bitly | Free QR codes **can't be edited** (destination changes are paywalled) |
 | Flowcode | Free codes carry **removable-only-by-upgrade branding**; 500-scan cap |
-| QR Tiger | Free dynamic trial is **scan-capped** (~100 scans/yr) |
+| QR Tiger | Free plan: **3 dynamic codes, 500 scans each** (total lifetime cap), then they stop |
 | Uniqode | **14-day trial**, then dynamic codes go inactive; no ongoing free dynamic tier |
 | QRCode Monkey | **Static only** — free forever, but codes can never be edited |
 | Pageloot | Free **static** codes never expire; dynamic codes use a labeled 14-day trial |
@@ -68,6 +68,20 @@ The Pageloot articles repeatedly frame competitors around how their free/trial t
 - **[QRCode Monkey](competitors/qrcode-monkey.md)** — Free, unlimited **static** codes with free SVG and no ads — great for a code that never changes. No dynamic codes; parent product labeled "abandoned."
 - **[QRFY](competitors/qrfy.md)** — Unlimited dynamic codes make it a high-volume value pick, but no monthly billing (quarterly minimum ~$41/mo) and a 7-day trial trap.
 - **[Uniqode](competitors/uniqode.md)** — The enterprise/compliance choice (SOC 2 / HIPAA / ISO 27001, Smart Rules, digital business cards, CRM sync). Annual-only billing and a steep tier ladder to $399/mo.
+
+---
+
+## About Pageloot
+
+This comparison is published by **[Pageloot](https://pageloot.com)** — a QR code generator built for marketing agencies and teams. What Pageloot offers:
+
+- A **[free QR code generator](https://pageloot.com/qr-code-generator/)** — static codes with no signup, no expiry, and no ads
+- **Dynamic QR codes** with scan analytics, white-label client reports, and built-in UTM tracking
+- **Lifetime plans** ($197 / $297 / $897 one-time) that keep your codes active with a single payment — no recurring fees
+
+Create your first code at **[pageloot.com](https://pageloot.com)**.
+
+> **Full disclosure:** Pageloot publishes the source articles behind this comparison and competes with every other tool listed — see the disclosure at the top. Figures for other tools are their own; verify current terms on each vendor's site.
 
 ---
 
