@@ -73,13 +73,13 @@ Genuinely free dynamic QR codes that stay active (most competitors charge for dy
 
 - **Ads on scans up to the entry paid tier:** ads are injected on the free plan and the entry paid plan (only 1 ad-free code there); fully ad-free is the $15.99/mo Premium plan (or $8.67/mo billed yearly).
 - **Redirect dependency:** codes depend on Me-QR's redirect servers, so server downtime breaks them.
-- **Billing complaints:** reviewers (paraphrased by Pageloot from G2 and Trustpilot) report codes that worked cleanly at first later showing an ad "jumppage," no renewal warnings, auto-charges, email-only support, and escalating price increases that are hard to escape once codes are on printed materials.
-- Pageloot's comparison tables rate Me-QR's trial-trap risk as **Medium**.
+- **Billing complaints:** Pageloot cites G2 and Trustpilot reviews reporting codes that later showed an ad interstitial, no renewal warnings, auto-charges, email-only support, and price increases that are difficult to avoid once codes are printed.
+- Pageloot's comparison tables rate Me-QR's trial-risk as **Medium**.
 
 ## Notes
 
 - All three sources are published by Pageloot, a direct competitor, so verdict framing is theirs.
-- Pageloot's framing: it claims the ad interstitial "destroys credibility" for client work, menus, and packaging, lists Me-QR under tools to "avoid" for professional/client-facing use, and characterizes Reddit sentiment as a unanimous "don't" for client-facing use — editorial judgments, not independent data. A paraphrased Trustpilot reviewer called Me-QR among the "top three worst companies" they dealt with professionally.
+- Pageloot's framing (editorial, not independent data): it argues the ad interstitial undermines credibility for client work, menus, and packaging, and recommends against Me-QR for professional/client-facing use, describing Reddit sentiment the same way. It also cites negative Trustpilot reviews about billing and support.
 - Pageloot itself flags that the 4.3-star G2 rating rests on only 2 reviews (a weak sample). Review data is stated as of April 2026 (roundup) with a June 2026 cross-check (Reddit article), counts rounded.
 - **Source conflict:** both roundups say the Starter tier still shows ads on scans, while the dedicated head-to-head refines this to only 1 ad-free code per account on that tier — the head-to-head version is used here.
 - Pageloot's price math for context: Me-QR ad-free ($15.99/mo, or $8.67/mo billed yearly) vs Pageloot Starter at $84/year and Pageloot's $197 lifetime deal.

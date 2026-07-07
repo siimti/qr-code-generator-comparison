@@ -66,7 +66,7 @@ Unlimited free static QR codes with no signup, no expiry, and no scan limits; fr
 
 Checkable facts: static-only; JPG/PNG export is paywalled behind QR Code Generator Pro; the on-site dynamic-code option redirects to QR Code Generator Pro (same owner, Egoditor GmbH, since February 2024).
 
-Pageloot frames this upgrade path as a "funnel" into a 1.5-star platform with a 14-day trial trap and surprise billing, and assigns QRCode Monkey a "Medium" trial-trap risk on its own scale. It paraphrases Trustpilot reviewers who printed "free" codes that later deactivated (one calling it an "absolute scam"), while noting those complaints center on users who unknowingly created dynamic codes through the QR Code Generator Pro funnel — plain static codes are reported to keep working.
+Pageloot describes the upgrade path from QRCode Monkey's dynamic-code option to QR Code Generator Pro (rated 1.5/5 on Trustpilot, with a 14-day trial and billing complaints), and assigns QRCode Monkey a "Medium" trial-risk rating on its own scale. It cites Trustpilot reviews from users whose codes later deactivated — noting those complaints center on users who unknowingly created dynamic codes via the QR Code Generator Pro path; plain static codes are reported to keep working.
 
 ## Notes
 

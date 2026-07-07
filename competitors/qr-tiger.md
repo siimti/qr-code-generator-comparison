@@ -75,7 +75,7 @@ Free static QR codes with no signup (Reddit roundup feature matrix). The free pl
 
 - **Annual lock-in above the entry tier:** monthly billing exists only on the $7 Regular plan, while Advanced ($16/mo), Premium ($37/mo), and Business ($89/mo) must be paid annually.
 - **No lifetime option** — 3 years on Regular costs $252.
-- **Scan-capped free dynamic codes:** the free plan gives 3 dynamic codes with a 500-scan total lifetime cap each, after which they stop working — though both roundups rate its trial-trap risk "Low".
+- **Scan-capped free dynamic codes:** the free plan gives 3 dynamic codes with a 500-scan total lifetime cap each, after which they stop working — though both roundups rate its trial-risk "Low".
 - **Designs cannot be edited after creation** without recreating the code.
 
 ## Notes

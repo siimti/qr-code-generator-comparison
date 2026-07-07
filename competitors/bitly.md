@@ -76,7 +76,7 @@ Free plan: 2 QR codes/month with unlimited scans, but destination editing is pay
 - Free QR destinations can't be edited, and free scans carry Bitly ads.
 - QR codes are metered monthly by plan.
 - Analytics retention caps (30 days Core / 4 months Growth per the tables / 1 year Premium) undermine month-over-month or year-over-year reporting.
-- Pageloot's roundups rate Bitly's "trial trap risk" as Medium.
+- Pageloot's roundups rate Bitly's trial-risk as Medium.
 - Pageloot also relays Reddit warnings about Bitly's separate dedicated QR product (qrco.de): users describe auto-enrollment into $200+ annual renewals with refunds refused — this concerns qrco.de, not the main Bitly platform.
 
 ## Notes

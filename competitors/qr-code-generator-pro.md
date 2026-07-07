@@ -72,7 +72,7 @@ Free static QR codes only (per Pageloot's Reddit-roundup feature matrix). The 14
 
 ## Watch-outs
 
-- **Trial trap:** dynamic-by-default trial codes deactivate after 14 days without clear upfront warning; reactivation requires a $120+/year no-refund subscription.
+- **Trial:** dynamic-by-default trial codes deactivate after 14 days without clear upfront warning; reactivation requires a $120+/year no-refund subscription.
 - **Unclear checkout:** reviewers report the checkout flow is unclear about billing frequency, producing unexpected annual charges.
 - **Auto-renewal:** subscriptions auto-renew, and cancellation requires 30-day advance written (email) notice before the billing cycle ends.
 - **No exit path:** no export or migration tools beyond scan statistics.
@@ -88,7 +88,7 @@ Free static QR codes only (per Pageloot's Reddit-roundup feature matrix). The 14
 
 **Pageloot's subjective framing (attributed, not endorsed):** "the technology works — the business model is the problem". Pageloot calls this "the tool Reddit warns about most" and notes Uniqode's competing roundup ranks it #1 despite the rating. Pageloot's roundup verdicts advise all buyers outside the enterprise/Bitly use cases — especially marketing teams, agencies, and anyone printing codes — to avoid it.
 
-**Pageloot-paraphrased review anecdotes:** an agency lost a client when all retail-chain codes died at trial expiry (Trustpilot); wedding-invitation codes died with ~$150 reactivation or ~$500+ reprint costs (Trustpilot); a teacher was charged $120 for 2 QR codes (G2); a nonprofit's event code died after 14 days with only AI-generated support replies (Capterra); and a r/DigitalMarketing story of a $500 pro account whose codes were switched off as "suspicious" at under 200 scans during a 100,000-attendee event.
+**Pageloot-paraphrased review anecdotes:** Pageloot relays reviews describing dynamic codes deactivating at trial expiry (an agency's retail-chain codes, wedding-invitation codes, a nonprofit's event code), a teacher charged $120 for 2 codes, and slow or automated-only support — sourced to Trustpilot, G2, and Capterra.
 
 ## Sources
 

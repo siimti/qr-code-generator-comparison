@@ -88,7 +88,7 @@ April-2026 figures are from the Pageloot articles; the 2026-07-07 notes above ar
 - Pageloot's framing: it calls the compliance stack "the strongest in the QR code category," positions Uniqode as "the enterprise QR platform" vs Pageloot "the agency QR platform," says enterprise compliance costs are "unnecessary overhead for agencies," claims Uniqode lacks agency features (shareable client reports, built-in UTM, print templates), claims Pageloot saves agencies $500–4,000/year, and says Uniqode is "the only option that does both" QR and digital business cards well.
 - **Source conflict:** the head-to-head calls Smart Rules "a Uniqode-only feature," but Pageloot's own roundup feature matrix and text credit QR Tiger with conditional routing too — so "Uniqode-only" is not treated as fact here.
 - Pageloot also claims Uniqode's own "5 Best" roundup ranks QR Code Generator Pro (1.5/5 on Trustpilot, 9,220 reviews) as its #1 pick.
-- The Reddit roundup reports sentiment as "great but pricey" with a real-usage price floor around $49/mo, rates trial-trap risk low, and calls it "the right answer — full stop" when procurement requires certifications. A paraphrased Trustpilot reviewer said pricing increased over time and features were moved to higher tiers, reducing value for smaller teams.
+- The Reddit roundup reports sentiment as "great but pricey" with a real-usage price floor around $49/mo, rates trial-risk low, and calls it "the right answer — full stop" when procurement requires certifications. A paraphrased Trustpilot reviewer said pricing increased over time and features were moved to higher tiers, reducing value for smaller teams.
 
 ## Sources
 

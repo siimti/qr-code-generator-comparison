@@ -47,7 +47,7 @@ Free static QR code generator at `/qr-code-generator/` — no signup, no payment
 - Agency-specific features (shareable client reports, white-label dashboard, built-in UTM tracking, custom table views, print templates) on plans starting at $7/mo billed annually, where competitors gate them behind $250–399/mo tiers or don't offer them.
 - Monthly billing is available on all plans (from $30/mo) and every plan carries a 30-day no-questions-asked worldwide refund.
 - Free static QR generator with no signup and no expiry, and no ads injected between scan and content on any plan.
-- 14-day clearly labeled dynamic-code trial — double the 7-day windows at QR.io and QRFY that the articles call trial traps.
+- 14-day clearly labeled dynamic-code trial — double the 7-day trial windows at QR.io and QRFY.
 - Strong multilingual support (37 landing-page languages, 16 dashboard languages) with live chat plus same-day email support on all plans, including weekends.
 
 ## Cons

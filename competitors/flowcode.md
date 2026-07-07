@@ -77,7 +77,7 @@ Free plan with 2 dynamic codes and 500 scans (the Reddit roundup says roughly 50
 - A G2 reviewer wanting codes for just 4 concerts per year was reportedly forced into a full annual subscription.
 - Refund policy is described as limited.
 - Not HIPAA or ISO 27001 certified.
-- Pageloot's own comparison tables rate Flowcode's trial-trap risk as Low and confirm it serves no ads on scans.
+- Pageloot's own comparison tables rate Flowcode's trial-risk as Low and confirm it serves no ads on scans.
 
 ## Notes
 

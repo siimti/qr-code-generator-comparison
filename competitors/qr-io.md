@@ -72,11 +72,11 @@ Marketed as free, but the creation flow defaults to dynamic QR codes without cle
 
 ## Notes
 
-- All three sources are published by Pageloot, a direct QR-platform competitor, so framing is adversarial.
+- All three sources are published by Pageloot, a direct QR-platform competitor, so comparative judgments reflect Pageloot's perspective.
 - Pageloot claims the 4.3-star Trustpilot rating is constructed largely from reviews written during the 7-day trial window before codes deactivate, and points to the 1.1-star Product Hunt rating (post-trial reviews) as "the other side"; it says Product Hunt and SourceForge "paint a different picture".
-- Pageloot characterizes the price as among the most expensive in the category ("5x what Pageloot or QR Tiger charge annually", a $1,260 three-year cost, and an illustrative $480 year-one cost combining $60 of wasted printed cards with the $420 subscription) and calls the trial design one that "manufactures urgency through material waste rather than product value".
-- Reviewer language ("held as a hostage" over wedding invitations, "extort a monthly payment" from a nonprofit, "a cleverly disguised scam for extorting money") is paraphrased by Pageloot from Trustpilot, Product Hunt, G2, and SourceForge.
-- The head-to-head article itself concedes QR.io is "a functioning QR code generator, not technically a scam" and that the product is good while active.
+- Pageloot characterizes the price as among the most expensive in the category, comparing QR.io's annual cost to its own and QR Tiger's. (The cost figures in the source articles predate the 2026-07-07 increase to $39.99/mo.)
+- Pageloot cites negative reviews across Trustpilot, Product Hunt, G2, and SourceForge reporting unexpected charges, difficulty cancelling, and codes deactivating after the trial.
+- The head-to-head article concedes QR.io is a functioning QR code generator (not a scam) and that the product works well while a subscription is active.
 - **Verdict conflict across sources:** the marketing-teams roundup shows "—" (no recommended audience) and the Reddit roundup lists QR.io under "avoid for anything printed or client-facing", while the head-to-head allows a narrow informed-buyer use case; the head-to-head was preferred for the "Best for" entry per reconciliation rules.
 - All rating figures and prices were verified verbatim in the source texts.
 

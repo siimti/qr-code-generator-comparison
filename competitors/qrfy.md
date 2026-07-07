@@ -89,7 +89,7 @@ The articles advise documenting any cancellation request in writing via multiple
 ## Notes
 
 - **Source caveat:** all three source articles are published by Pageloot, a direct competitor, and the head-to-head explicitly positions Pageloot as the alternative (14-day vs 7-day trial, monthly billing, 30-day refund, $197 lifetime deal, agency features) — treat comparative judgments accordingly.
-- **Pageloot's framing, attributed:** QRFY "tells two stories" — well-rated on G2 versus "misleading advertising," "bait and switch," and "QR code hostage" themes on Product Hunt, SourceForge, PissedConsumer, and portions of Trustpilot. Pageloot calls the sign-up flow a "trial trap," but its FAQ explicitly states QRFY "is not a scam," and it concedes QRFY wins on unlimited codes, QR type count, and API access — noting the 7-day dynamic-code expiry pattern is not unique to QRFY.
+- **Pageloot's framing, attributed:** Pageloot contrasts QRFY's strong G2 rating with more negative reviews on Product Hunt, SourceForge, PissedConsumer, and parts of Trustpilot. Its own FAQ states QRFY "is not a scam," and it concedes QRFY wins on unlimited codes, QR type count, and API access — noting the 7-day dynamic-code expiry pattern is not unique to QRFY.
 - **Facts:** QRFY is a Spanish company (qrfy.com).
 - **Conflicts found:** the head-to-head internally conflicts on the quarterly total (~€150 in one passage vs ~€123 in its own table, FAQ, and both roundups — ~€123 kept as primary); page-3 gives the G2 score without a review count (221 taken from the other two articles).
 - **Rating snapshots:** the marketing roundup and head-to-head cite April 2026 data; the Reddit roundup cites June 2026 — the numbers are identical across all three.

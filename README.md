@@ -19,8 +19,8 @@ Each tool has a detailed breakdown in [`competitors/`](competitors/). Click any 
 | **[Me-QR](competitors/me-qr.md)** | **Free** (ads); ad-free **$15.99/mo** ($8.67/mo yearly) | Free dynamic codes — but an ad interstitial on every scan | 4.3 (2) ᶜ | 3.8 (573) | — | Genuinely **free dynamic codes** + 46+ QR types | Ads on scans up to the entry paid tier; fully ad-free needs $15.99/mo |
 | **[QR Tiger](competitors/qr-tiger.md)** | **$7/mo** (Regular) | Free static; 3 free dynamic codes, 500 scans each (lifetime cap) | 4.8 (~148) | 4.5 (160) | — ᵈ | **Strong review scores** (4.8 G2 / 4.5 Trustpilot); conditional routing, GS1, Canva | Monthly billing only on the $7 tier; no lifetime option |
 | **[QR.io](competitors/qr-io.md)** | **$39.99/mo** | "Free" — but codes deactivate after a 7-day trial | 4.5 (462) | 4.3 (~13k) | 1.1 (26) | Works for active subscribers; strong design customization | 7-day trial codes deactivate; $39.99/mo is the only reactivation path |
-| **[QR Code Generator Pro](competitors/qr-code-generator-pro.md)** | **$120/yr** (~$10/mo, Starter) | Free static; dynamic trial deactivates at 14 days | 3.4 (54) | 1.5 (9,194) | — | Functional core (dynamic codes, analytics, customization) | Trial codes die at 14 days; **no-refund** annual Starter |
-| **[QRCode Monkey](competitors/qrcode-monkey.md)** | **Free** (static only) | Unlimited free static, free SVG, no ads | — | 1.8 (41) | — | Static codes **genuinely free** — no signup, expiry, or limits | Static only — codes can't be edited; parent product is "abandoned" |
+| **[QR Code Generator Pro](competitors/qr-code-generator-pro.md)** | **$120/yr** (~$10/mo, Starter) | Free static; dynamic trial deactivates at 14 days | 3.4 (54) | 1.5 (9,194) | — | Functional core (dynamic codes, analytics, customization) | Trial codes deactivate at 14 days; **no-refund** annual Starter |
+| **[QRCode Monkey](competitors/qrcode-monkey.md)** | **Free** (static only) | Unlimited free static, free SVG, no ads | — | 1.8 (41) | — | Static codes **genuinely free** — no signup, expiry, or limits | Static only — codes can't be edited; no dynamic codes |
 | **[QRFY](competitors/qrfy.md)** | **~$20/mo** (annual); no monthly | No free dynamic; 7-day trial then deactivates | 4.6 (221) | 3.9 (~11k) | 1.3 (12) | **Unlimited dynamic codes** on paid plans (high-volume value) | 7-day trial codes deactivate; quarterly minimum ~$41/mo |
 | **[Uniqode](competitors/uniqode.md)** | **$9/mo** (Essential, annual only) | No free dynamic; 14-day trial; free static generator | 4.8 (507) | 3.7 (19) ᶠ | — ᵉ | Full **compliance stack** (SOC 2 / HIPAA / ISO 27001) + Smart Rules | Annual billing only; steep $9→$49→$99→$399 tier ladder |
 
@@ -36,9 +36,9 @@ Each tool has a detailed breakdown in [`competitors/`](competitors/). Click any 
 
 ---
 
-## The recurring theme: free-tier "traps"
+## Free-tier & trial terms
 
-The Pageloot articles repeatedly frame competitors around how their free/trial tiers convert. Extracted, the pattern is:
+A recurring point of comparison is how each tool's free/trial tier works and what happens when it ends. The mechanics (as documented in the sources):
 
 | Tool | Free-tier mechanic (as described in sources) |
 |---|---|
@@ -60,14 +60,14 @@ The Pageloot articles repeatedly frame competitors around how their free/trial t
 ## Per-tool summaries
 
 - **[Pageloot](competitors/pageloot.md)** — Agency-focused dynamic QR platform. Lifetime deals ($197/$297/$897), white-label reports, UTM tracking, print templates; from $7/mo (annual). Weak on API/compliance today. *(This is the publisher of all source articles — first-party marketing.)*
-- **[Bitly](competitors/bitly.md)** — A link-shortener first, QR second. Excellent link management and SOC 2 compliance; QR is a thin add-on (2 free/mo, editing paywalled). Cheapest editable-QR plan $10/mo.
-- **[Flowcode](competitors/flowcode.md)** — Premium, design-led codes for enterprise/Fortune 1000 brands. Beautiful output; big price cliff from $25/mo to $250/mo with no middle tier.
-- **[Me-QR](competitors/me-qr.md)** — Widest QR-type breadth (46+) and free dynamic codes, but ads on scans up to $9/mo; ad-free is $15/mo. ME-Ticket event ticketing is unique.
-- **[QR Tiger](competitors/qr-tiger.md)** — The most feature-complete paid tool for individual marketers (conditional routing, GS1, Canva, API), with the best review scores (4.8/4.8). Not agency-oriented.
-- **[QR.io](competitors/qr-io.md)** — Single $39.99/mo plan. Strong design customization but a hard 7-day trial trap and a 1.1/5 Product Hunt score.
-- **[QR Code Generator Pro](competitors/qr-code-generator-pro.md)** — qr-code-generator.com (Egoditor/Bitly). Enterprise compliance angle, but 1.5/5 Trustpilot across 9,000+ reviews and a 14-day no-refund trap.
-- **[QRCode Monkey](competitors/qrcode-monkey.md)** — Free, unlimited **static** codes with free SVG and no ads — great for a code that never changes. No dynamic codes; parent product labeled "abandoned."
-- **[QRFY](competitors/qrfy.md)** — Unlimited dynamic codes make it a high-volume value pick, but no monthly billing (quarterly minimum ~$41/mo) and a 7-day trial trap.
+- **[Bitly](competitors/bitly.md)** — A link-shortener first, QR second. Excellent link management and SOC 2 compliance; QR is a secondary feature (2 free/mo, editing paywalled). Cheapest editable-QR plan $10/mo.
+- **[Flowcode](competitors/flowcode.md)** — Premium, design-led codes for enterprise/Fortune 1000 brands. Polished output; a large price step from $25/mo to $250/mo with no middle tier.
+- **[Me-QR](competitors/me-qr.md)** — Widest QR-type breadth (46+) and free dynamic codes, but ads on scans up to the entry paid tier; ad-free is $15.99/mo. ME-Ticket event ticketing is unique.
+- **[QR Tiger](competitors/qr-tiger.md)** — The most feature-complete paid tool for individual marketers (conditional routing, GS1, Canva, API), with strong review scores (4.8 G2 / 4.5 Trustpilot). Not agency-oriented.
+- **[QR.io](competitors/qr-io.md)** — Single $39.99/mo plan. Strong design customization, but dynamic codes deactivate after a 7-day trial, and a 1.1/5 Product Hunt score.
+- **[QR Code Generator Pro](competitors/qr-code-generator-pro.md)** — qr-code-generator.com (Egoditor/Bitly). Enterprise compliance angle, but 1.5/5 Trustpilot across 9,000+ reviews, and trial codes deactivate after 14 days on a no-refund annual plan.
+- **[QRCode Monkey](competitors/qrcode-monkey.md)** — Free, unlimited **static** codes with free SVG and no ads — well suited to a code that never changes. No dynamic codes; paid features live on its parent product, QRCG.
+- **[QRFY](competitors/qrfy.md)** — Unlimited dynamic codes make it a high-volume value pick, but no monthly billing (quarterly minimum ~$41/mo) and dynamic codes deactivate after a 7-day trial.
 - **[Uniqode](competitors/uniqode.md)** — The enterprise/compliance choice (SOC 2 / HIPAA / ISO 27001, Smart Rules, digital business cards, CRM sync). Annual-only billing and a steep tier ladder to $399/mo.
 
 ---
