@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| **Website** | [qr-code-generator.com](https://qr-code-generator.com) |
+| **Website** | [qr-code-generator.com](https://qr-code-generator.com) — rebranded **"QRCG by Bitly"** (confirmed 2026-07-07) |
 | **Pricing** | Starter $120/year (~$10/mo); Advanced ~$178/year; Professional annual-only (price not stated); Enterprise via Bitly (no published price). Strict no-refund policy, no lifetime option. |
 | **Free tier** | Free static QR codes only; 14-day trial creates dynamic codes that deactivate after trial |
 | **G2 rating** | 3.4/5 (54 reviews) |
@@ -33,10 +33,11 @@ Free static QR codes only (per Pageloot's Reddit-roundup feature matrix). The 14
 
 ## Ratings
 
-- **Trustpilot:** 1.5/5 (9,194 reviews per Pageloot's dedicated head-to-head, verified April 2026; Pageloot's other articles cite 9,220 reviews) — the lowest rating in Pageloot's comparisons
-- **G2:** 3.4/5 (54 reviews)
-- **Capterra:** 2.4/5 (82 reviews)
+- **Trustpilot:** 1.5/5 (~9,200 reviews) — **validated 2026-07-07**; the ~9,194 count in the source articles is accurate (and still climbing) — the lowest rating in these comparisons
+- **G2:** 3.4/5 (~54 reviews) — confirmed 2026-07-07 (~3.3–3.4, ~54–59; page bot-blocked)
+- **Capterra:** 2.4/5 (82 reviews) — **confirmed 2026-07-07** via a direct read of the live profile (exact match)
 - GetApp and Software Advice are cited as research sources but no scores are given for them
+- *Live-verified 2026-07-07 — see the [verification log](../VERIFICATION.md).*
 
 ## Pros
 

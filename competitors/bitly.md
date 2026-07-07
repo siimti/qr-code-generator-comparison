@@ -33,9 +33,10 @@ Free plan: 2 QR codes/month with unlimited scans, but destination editing is pay
 
 ## Ratings
 
-- **G2:** 4.5/5 (916 reviews) — explicitly scoped by all three sources to Bitly's link-shortening product, not its QR feature
-- **Trustpilot:** 2.3/5 (694 reviews)
+- **G2:** 4.5/5 (916 reviews) — scoped by all three sources to Bitly's link-shortening product, not its QR feature; **not independently verified 2026-07-07** (G2 bot-blocked; snippets put the score ~4.5 but the count anywhere from ~915 to ~974)
+- **Trustpilot:** 2.3/5 (694 reviews) — **not independently verified 2026-07-07** (Trustpilot bot-blocked; snippets conflicted between 2.3 and 1.5)
 - **Product Hunt:** not mentioned in any of the three source articles
+- *Pricing (Core $10/mo annual; free 2 QR/mo) was confirmed on the live pricing page 2026-07-07; the review scores could not be. See the [verification log](../VERIFICATION.md).*
 - **Other:** No Capterra or App Store scores are given for Bitly itself. The sources repeatedly cite Bitly's subsidiary QR Code Generator Pro (Egoditor GmbH, qr-code-generator.com) at 1.5/5 on Trustpilot across 9,220 reviews (one page-6 bullet says 9,194); page-1's verdict table also lists the subsidiary at 3.4/5 on G2 (54 reviews).
 
 ## Pros

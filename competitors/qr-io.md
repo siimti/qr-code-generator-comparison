@@ -9,31 +9,32 @@
 | | |
 |---|---|
 | **Website** | qr.io |
-| **Pricing** | Single unnamed paid plan at $35/month (~$420/year), subscriptions only |
+| **Pricing** | Single unnamed paid plan at **$39.99/month** (~$480/year), subscriptions only — verified 2026-07-07 (was $35 in the source articles) |
 | **Free tier** | Marketed as free, but dynamic codes deactivate after a 7-day trial |
 | **G2 rating** | 4.5/5 (462 reviews) |
 | **Trustpilot rating** | 4.3/5 (12,778 reviews) |
-| **Product Hunt rating** | 1.1/5 (25 reviews) |
-| **Best for** | Users who sign up knowing it costs $35/month (not free), need unlimited QR code volume, and value strong design customization (per the head-to-head article) |
+| **Product Hunt rating** | 1.1/5 (26 reviews) — verified 2026-07-07 |
+| **Best for** | Users who sign up knowing it costs $39.99/month (not free), need unlimited QR code volume, and value strong design customization (per the head-to-head article) |
 
 ## Pricing
 
 | Plan | Price | Notes |
 |------|-------|-------|
-| Paid plan (unnamed in sources) | $35/month (~$420/year) | Includes unlimited QR code creation with no per-code limits; also the only way to reactivate dynamic codes that deactivate after the 7-day trial. Billing terms described as unclear (no monthly-vs-annual distinction). |
+| Paid plan (unnamed in sources) | $39.99/month (~$480/year) | Price verified on qr.io/pricing 2026-07-07 (up from $35 at the time of the source articles). Includes unlimited QR code creation with no per-code limits; also the only way to reactivate dynamic codes that deactivate after the 7-day trial. |
 
-Single unnamed paid plan at $35/month (~$420/year), subscriptions only; sources state there is no clear monthly-vs-annual billing distinction and no lifetime deal.
+Single unnamed paid plan at **$39.99/month** (~$480/year) as of 2026-07-07 (the source articles cited $35), subscriptions only; sources state there is no clear monthly-vs-annual billing distinction and no lifetime deal.
 
 ## Free Tier
 
-Marketed as free, but the creation flow defaults to dynamic QR codes without clearly explaining static vs dynamic; those codes deactivate after a 7-day trial and reactivation requires the $35/month plan. The head-to-head comparison table marks free static codes as "unclear separation".
+Marketed as free, but the creation flow defaults to dynamic QR codes without clearly explaining static vs dynamic; those codes deactivate after a 7-day trial and reactivation requires the paid plan ($39.99/month as of 2026-07-07). The head-to-head comparison table marks free static codes as "unclear separation".
 
 ## Ratings
 
-- **Trustpilot:** 4.3/5 (12,778 reviews)
-- **G2:** 4.5/5 (462 reviews)
-- **Product Hunt:** 1.1/5 (25 reviews)
+- **Trustpilot:** 4.3/5 (~13,000 reviews) — validated 2026-07-07; the ~12,778 count in the source articles was accurate and is now higher (live counter still climbing)
+- **G2:** 4.5/5 (~461 reviews) — confirmed 2026-07-07
+- **Product Hunt:** 1.1/5 (26 reviews) — confirmed 2026-07-07 (was 25)
 - **Other:** SourceForge is cited as a review source in the head-to-head article, but no numeric SourceForge rating is given in any source.
+- *Live-verified 2026-07-07 — see the [verification log](../VERIFICATION.md).*
 
 ## Pros
 
@@ -46,8 +47,8 @@ Marketed as free, but the creation flow defaults to dynamic QR codes without cle
 
 ## Cons
 
-- Dynamic codes created during the "free" trial deactivate after 7 days, with the $35/month plan as the only reactivation path — reviewers report discovering this after printing business cards, wedding invitations, flyers, packaging, and posters.
-- $35/month (~$420/year) with no clear monthly-vs-annual distinction and no lifetime deal — subscriptions only.
+- Dynamic codes created during the "free" trial deactivate after 7 days, with the paid plan ($39.99/mo as of 2026-07-07) as the only reactivation path — reviewers report discovering this after printing business cards, wedding invitations, flyers, packaging, and posters.
+- $39.99/month (~$480/year) with no clear monthly-vs-annual distinction and no lifetime deal — subscriptions only.
 - Codes route through the qr.io domain, so they cannot be migrated to another platform while keeping printed codes working.
 - Multiple reviewers report cancellation difficulties — one Trustpilot reviewer described nearly two months of continued charges with the website not allowing cancellation — and the Reddit-roundup article cites BBB complaints of charges continuing after cancellation.
 - Support is described as slow, taking weeks to reply; one G2 reviewer reported being charged without invoices and locked out of their account.
@@ -63,7 +64,7 @@ Marketed as free, but the creation flow defaults to dynamic QR codes without cle
 
 ## Watch-outs
 
-- **7-day trial trap:** creation defaults to dynamic codes that deactivate after 7 days, with reactivation only via the $35/month plan — typically discovered after materials are printed.
+- **7-day trial:** creation defaults to dynamic codes that deactivate after 7 days, with reactivation only via the paid plan ($39.99/mo) — typically discovered after materials are printed.
 - **Platform lock-in:** codes route through the qr.io domain.
 - **Cancellation difficulties:** reported continued charges after cancellation (Trustpilot anecdotes; BBB complaints cited in one source).
 - **Product Hunt review tags:** "deceptive marketing" (18), "unexpected fees" (17), "QR code deactivation" (14), and "misleading free trial" (12).

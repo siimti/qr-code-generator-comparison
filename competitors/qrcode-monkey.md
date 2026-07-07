@@ -11,7 +11,7 @@
 | **Website** | [qrcode-monkey.com](https://qrcode-monkey.com) |
 | **Pricing** | Free for static QR codes only; no paid plans of its own — paid features route to QR Code Generator Pro (~$10/month, annual billing only) |
 | **Free tier** | Unlimited static QR codes — no signup, no expiry, no scan limits; free SVG download |
-| **G2 rating** | No score — profile shows no rating; Pageloot labels it "Abandoned", inactive for 1+ year |
+| **G2 rating** | Not cited in the source articles; a profile may now exist (~4.8/25, unverified 2026-07-07) |
 | **Trustpilot rating** | 1.8/5 (41 reviews, rated "Poor") |
 | **Product Hunt rating** | — |
 | **Best for** | A single free static QR code that will never need to change (poster, business card, event flyer, WiFi), or graphic designers who need free SVG vector output for professional printing |
@@ -31,10 +31,11 @@ Unlimited free static QR codes with no signup, no expiry, and no scan limits; fr
 
 ## Ratings
 
-- **Trustpilot:** 1.8/5 (41 reviews, rated "Poor") — as displayed in the Pageloot articles, sourced to Trustpilot
-- **G2:** No score — G2 profile shows no rating; Pageloot labels it "Abandoned", inactive for 1+ year
+- **Trustpilot:** 1.8/5 (41 reviews, rated "Poor") — as displayed in the Pageloot articles; **not independently verified 2026-07-07** (Trustpilot bot-blocked; snippets showed 1.8/41 vs 2.1/43)
+- **G2:** no rating was cited in the source articles; a G2 profile may now exist (snippets suggest ~4.8/25 as of 2026-07-07) but this could not be confirmed on the bot-blocked page — treat as unverified
 - **Product Hunt:** —
 - Note: the Reddit roundup article displays no star ratings for this tool; ratings here come from the other two articles. Pageloot states review counts and star ratings are approximate and change over time (as of June 2026).
+- *Live-checked 2026-07-07 (free/static-only status confirmed on-site) — see the [verification log](../VERIFICATION.md).*
 
 ## Pros
 

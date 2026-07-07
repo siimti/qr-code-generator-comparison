@@ -32,11 +32,12 @@ No standing free tier for dynamic codes: sign-up starts a 7-day trial that creat
 
 ## Ratings
 
-- **Trustpilot:** 3.9/5 (10,808 reviews)
-- **G2:** 4.6/5 (221 reviews)
-- **Product Hunt:** 1.3/5 (12 reviews)
+- **Trustpilot:** 3.9/5 (~11,100 reviews) — validated 2026-07-07; the ~10,808 count in the sources was accurate and has since grown
+- **G2:** 4.6/5 (221 reviews) — confirmed 2026-07-07 (exact match)
+- **Product Hunt:** 1.3/5 (12 reviews) — confirmed 2026-07-07 (exact match)
 - **PissedConsumer:** 1.7/5, 89% unfavorable (cited only in the Reddit roundup article)
 - **SourceForge:** cited as a review source in the head-to-head article, but no numeric SourceForge rating is given
+- *Live-verified 2026-07-07 — see the [verification log](../VERIFICATION.md).*
 
 ## Pros
 

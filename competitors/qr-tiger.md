@@ -12,7 +12,7 @@
 | **Pricing** | Four subscription tiers: Regular $7/mo, Advanced $16/mo, Premium $37/mo, Business $89/mo — monthly billing only on Regular; no lifetime option |
 | **Free tier** | Free static QR codes with no signup; free plan also includes 3 dynamic codes, 500 scans each (total lifetime cap) |
 | **G2 rating** | 4.8/5 (145 reviews) |
-| **Trustpilot rating** | 4.8/5 (158 reviews) |
+| **Trustpilot rating** | 4.5/5 (160 reviews) — verified 2026-07-07 |
 | **Product Hunt rating** | — (no numeric rating given; awarded "Most Innovative Product" on Product Hunt per the head-to-head article) |
 | **Best for** | Individual marketers or businesses managing their own QR campaigns — especially those needing multi-URL conditional routing, GS1 Digital Link, Canva workflows, or bulk generation up to 3,000 codes |
 
@@ -33,14 +33,15 @@ Free static QR codes with no signup (Reddit roundup feature matrix). The free pl
 
 ## Ratings
 
-- **G2:** 4.8/5 (145 reviews)
-- **Trustpilot:** 4.8/5 (158 reviews)
-- **Product Hunt:** no numeric rating given in any source; awarded "Most Innovative Product" on Product Hunt (per the head-to-head article)
+- **G2:** 4.8/5 (~148 reviews) — rating confirmed 2026-07-07 (exact count bot-blocked)
+- **Trustpilot:** 4.5/5 (160 reviews) — **corrected 2026-07-07**; the source articles said 4.8/5, but the live Trustpilot page shows 4.5/5
+- **Product Hunt:** no numeric rating; a "No reviews yet" profile as of 2026-07-07 (awarded "Most Innovative Product" on Product Hunt per the head-to-head article)
 - **Other ratings:** none given in the sources
+- *Live-verified 2026-07-07 — see the [verification log](../VERIFICATION.md).*
 
 ## Pros
 
-- Rated 4.8/5 on both G2 (145 reviews) and Trustpilot (158 reviews) — the strongest review scores among paid tools in these comparisons.
+- Rated 4.8/5 on G2 (~148 reviews) and 4.5/5 on Trustpilot (160 reviews) — among the strongest review scores among paid tools in these comparisons.
 - Multi-URL conditional routing sends one QR code to different destinations by scan location, device type, or time of day.
 - Supports GS1 Digital Link for retail/CPG product packaging and has a native Canva integration for design workflows.
 - Broad integration stack: native HubSpot and Zapier, GA4/GTM/Meta Pixel tracking, and API access.

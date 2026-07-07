@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | **Website** | — (no URL given in the sources; formerly beaconstac.com) |
-| **Pricing** | Four QR plans, all billed annually only: Essential $9/mo ($108/yr), Core $49/mo ($588/yr), Plus $99/mo ($1,188/yr), Business+ $399/mo ($4,788/yr) |
+| **Pricing** | Annual billing only. Entry plan **~$5/mo** (Starter) as of 2026-07-07 — restructured since the source articles (which listed Essential $9 → Core $49 → Plus $99 → Business+ $399); see the Pricing note below |
 | **Free tier** | No ongoing free dynamic plan — a 14-day trial (no card required), after which dynamic codes go inactive; a free static generator is available |
 | **G2 rating** | 4.8/5 (507 reviews) |
 | **Trustpilot rating** | 3.7/5 (19 reviews) |
@@ -27,18 +27,20 @@
 
 Four QR plans from $9/month (Essential) to $399/month (Business+), all billed annually only with no monthly option — $108 to $4,788 per year paid upfront.
 
+> **Update 2026-07-07:** Uniqode appears to have restructured its pricing since the source articles. The live entry plan is **Starter at ~$5/mo** (annual), with a ladder of roughly **$5 → $15 → $49 → $99 → custom**. The table above reflects the April-2026 figures; the live pricing page is JS-rendered, so treat the new numbers as corroborated-not-page-confirmed. See the [verification log](../VERIFICATION.md).
+
 ## Free Tier
 
 No ongoing free dynamic plan. There is a 14-day free trial for QR codes (no credit card required); after the trial, dynamic codes become inactive. A free static QR code generator is available.
 
 ## Ratings
 
-- **G2:** 4.8/5 (507 reviews)
-- **Trustpilot:** 3.7/5 (19 reviews)
-- **Capterra:** 4.6/5 (~30 reviews)
+- **G2:** 4.8/5 (507 reviews) — confirmed 2026-07-07 (seller aggregate; ~471 on the primary product profile)
+- **Trustpilot:** 3.7/5 (19 reviews) — April-2026 figure; live page bot-blocked 2026-07-07, snippets suggest it is now higher (~4.0–4.4), treat as unverified
+- **Capterra:** 4.0/5 (1 review) — **corrected 2026-07-07** via a direct read of the live profile; the source articles cited 4.6/5 (~30), which the live page does not show
 - **Product Hunt:** not listed in the sources
 
-Ratings are as reported by the Pageloot articles, sourced from review platforms as of April 2026; counts rounded/approximate.
+April-2026 figures are from the Pageloot articles; the 2026-07-07 notes above are from an independent live check — see the [verification log](../VERIFICATION.md).
 
 ## Pros
 

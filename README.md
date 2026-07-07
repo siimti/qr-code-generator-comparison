@@ -5,7 +5,7 @@ A side-by-side comparison of **10 QR code generator platforms** — pricing, thi
 Each tool has a detailed breakdown in [`competitors/`](competitors/). Click any name in the table to open it.
 
 > [!IMPORTANT]
-> **Source & bias disclosure.** All data here was extracted from **Pageloot's own published comparison and "alternative" pages**. Pageloot is a **direct competitor** of every other tool listed, so head-to-head framing, "watch-outs," and verdicts reflect *Pageloot's perspective*, not an independent audit. Objective, checkable facts (prices, plan limits, third-party review scores) are kept in the tables; Pageloot's subjective claims are attributed as such in each file's **Notes**. Ratings are as reported by those articles (mostly as of **April 2026**, counts rounded) and were not independently re-verified against G2/Trustpilot/Product Hunt. Treat this as a *starting map*, not a neutral scorecard — verify current pricing and ratings on each vendor's site before deciding.
+> **Source & bias disclosure.** All data here was extracted from **Pageloot's own published comparison and "alternative" pages**. Pageloot is a **direct competitor** of every other tool listed, so head-to-head framing, "watch-outs," and verdicts reflect *Pageloot's perspective*, not an independent audit. Objective, checkable facts (prices, plan limits, third-party review scores) are kept in the tables; Pageloot's subjective claims are attributed as such in each file's **Notes**. Ratings were originally as reported by those articles (≈**April 2026**, counts rounded); on **2026-07-07** the headline prices and review scores were **independently spot-checked against live sources** — see the **[verification log](VERIFICATION.md)** for what confirmed, what changed, and what stayed unverified (G2/Trustpilot block automated checks). Treat this as a *starting map*, not a neutral scorecard — verify current pricing and ratings on each vendor's site before deciding.
 
 ---
 
@@ -16,22 +16,23 @@ Each tool has a detailed breakdown in [`competitors/`](competitors/). Click any 
 | **[Pageloot](competitors/pageloot.md)** | **$7/mo** (annual); monthly from $30; **lifetime $197+** | Free static — no signup, ads, or expiry; dynamic = 14-day trial | 4.8 (13) ᵃ | 4.0 (3) ᵃ | — | One-time **lifetime deals** keep dynamic codes active forever (no competitor offers this) | No public API, Smart Rules, or CRM integrations yet ("in progress") |
 | **[Bitly](competitors/bitly.md)** | **$10/mo** (Core, annual only) | 2 QR/mo; editing paywalled; ads on free scans | 4.5 (916) ᵇ | 2.3 (694) | — | Industry-leading **link management** (branded short links, analytics) | Free QR codes can't be edited — destination changes require a paid plan |
 | **[Flowcode](competitors/flowcode.md)** | **$25/mo** (Pro Plus, annual); free plan | 2 dynamic codes, 500 scans; Flowcode branding | 4.6 (85) | 3.6 (36) | — | Most **visually polished**, artist-designed codes | 10× price jump: $25/mo → $250/mo Growth with nothing in between |
-| **[Me-QR](competitors/me-qr.md)** | **Free** (ads); ad-free from **$15/mo** | Free dynamic codes — but an ad interstitial on every scan | 4.3 (2) ᶜ | 3.8 (567) | — | Genuinely **free dynamic codes** + 46+ QR types | Ads on scans through the $9/mo tier; fully ad-free needs $15/mo |
-| **[QR Tiger](competitors/qr-tiger.md)** | **$7/mo** (Regular) | Free static; 3 free dynamic codes, 500 scans each (lifetime cap) | 4.8 (145) | 4.8 (158) | — ᵈ | **Highest review scores** among paid tools; conditional routing, GS1, Canva | Monthly billing only on the $7 tier; no lifetime option |
-| **[QR.io](competitors/qr-io.md)** | **$35/mo** | "Free" — but codes deactivate after a 7-day trial | 4.5 (462) | 4.3 (12,778) | 1.1 (25) | Works for active subscribers; strong design customization | **7-day trap**: trial codes die; $35/mo is the only reactivation path |
+| **[Me-QR](competitors/me-qr.md)** | **Free** (ads); ad-free from **$9.99/mo** ($69/yr) | Free dynamic codes — but an ad interstitial on every scan | 4.3 (2) ᶜ | 3.8 (573) | — | Genuinely **free dynamic codes** + 46+ QR types | Ads on scans up to the $5/mo Lite tier; fully ad-free needs $9.99/mo |
+| **[QR Tiger](competitors/qr-tiger.md)** | **$7/mo** (Regular) | Free static; 3 free dynamic codes, 500 scans each (lifetime cap) | 4.8 (~148) | 4.5 (160) | — ᵈ | **Strong review scores** (4.8 G2 / 4.5 Trustpilot); conditional routing, GS1, Canva | Monthly billing only on the $7 tier; no lifetime option |
+| **[QR.io](competitors/qr-io.md)** | **$39.99/mo** | "Free" — but codes deactivate after a 7-day trial | 4.5 (462) | 4.3 (~13k) | 1.1 (26) | Works for active subscribers; strong design customization | 7-day trial codes deactivate; $39.99/mo is the only reactivation path |
 | **[QR Code Generator Pro](competitors/qr-code-generator-pro.md)** | **$120/yr** (~$10/mo, Starter) | Free static; dynamic trial deactivates at 14 days | 3.4 (54) | 1.5 (9,194) | — | Functional core (dynamic codes, analytics, customization) | Trial codes die at 14 days; **no-refund** annual Starter |
 | **[QRCode Monkey](competitors/qrcode-monkey.md)** | **Free** (static only) | Unlimited free static, free SVG, no ads | — | 1.8 (41) | — | Static codes **genuinely free** — no signup, expiry, or limits | Static only — codes can't be edited; parent product is "abandoned" |
-| **[QRFY](competitors/qrfy.md)** | **~$20/mo** (annual); no monthly | No free dynamic; 7-day trial then deactivates | 4.6 (221) | 3.9 (10,808) | 1.3 (12) | **Unlimited dynamic codes** on paid plans (high-volume value) | 7-day trial codes deactivate; quarterly minimum ~$41/mo |
-| **[Uniqode](competitors/uniqode.md)** | **$9/mo** (Essential, annual only) | No free dynamic; 14-day trial; free static generator | 4.8 (507) | 3.7 (19) | — ᵉ | Full **compliance stack** (SOC 2 / HIPAA / ISO 27001) + Smart Rules | Annual billing only; steep $9→$49→$99→$399 tier ladder |
+| **[QRFY](competitors/qrfy.md)** | **~$20/mo** (annual); no monthly | No free dynamic; 7-day trial then deactivates | 4.6 (221) | 3.9 (~11k) | 1.3 (12) | **Unlimited dynamic codes** on paid plans (high-volume value) | 7-day trial codes deactivate; quarterly minimum ~$41/mo |
+| **[Uniqode](competitors/uniqode.md)** | **$5/mo** (Starter, annual only) | No free dynamic; 14-day trial; free static generator | 4.8 (507) | 3.7 (19) ᶠ | — ᵉ | Full **compliance stack** (SOC 2 / HIPAA / ISO 27001) + Smart Rules | Annual billing only; steep tier jumps ($5→$15→$49→$99→custom) |
 
 **Table notes**
 
 - ᵃ **Pageloot's** G2 (4.8/5, 13 reviews) and Trustpilot (4.0/5, 3 reviews) figures are current ratings provided by the repo owner; the 2026 source articles themselves reported no public rating yet. No Product Hunt score.
-- ᵇ **Bitly's** 4.5/916 G2 score is for its **link-shortening product**, not the QR feature specifically.
-- ᶜ **Me-QR's** 4.3 G2 rests on just **2 reviews** (a weak sample, per Pageloot).
+- ᵇ **Bitly's** ~4.5 G2 score is for its **link-shortening product**, not the QR feature; the exact count and its Trustpilot score could not be independently verified on 2026-07-07 (both bot-blocked).
+- ᶜ **Me-QR's** G2 (4.3/5, 2 reviews) could not be re-verified on 2026-07-07 (G2 bot-blocked, no rated card surfaced) — treat as unconfirmed.
 - ᵈ **QR Tiger** has no numeric Product Hunt score but was awarded **"Most Innovative Product"** there.
-- ᵉ **Uniqode** also carries a **Capterra 4.6/5** (~30 reviews); no Product Hunt score is listed.
-- Ratings shown as `score (review count)`. "—" means no rating for that platform appears in the sources.
+- ᵉ **Uniqode's** live **Capterra is 4.0/5 (1 review)** as of 2026-07-07 — the source articles cited 4.6/5 (~30), not reproduced on the live profile; G2 4.8/507 holds.
+- ᶠ **Uniqode's** Trustpilot (3.7/5, 19) is the April-2026 figure; the live page was bot-blocked on 2026-07-07 but snippets suggest it is now higher (~4.0–4.4) — treat as unverified.
+- Ratings shown as `score (review count)`, spot-checked 2026-07-07 — full detail, sources, and confidence tags in the **[verification log](VERIFICATION.md)**. "—" means no rating for that platform in the sources.
 
 ---
 
@@ -41,7 +42,7 @@ The Pageloot articles repeatedly frame competitors around how their free/trial t
 
 | Tool | Free-tier mechanic (as described in sources) |
 |---|---|
-| QR.io | Trial dynamic codes **deactivate after 7 days** → $35/mo to reactivate |
+| QR.io | Trial dynamic codes **deactivate after 7 days** → $39.99/mo to reactivate |
 | QRFY | Trial dynamic codes **deactivate after 7 days** → paid subscription to reactivate |
 | QR Code Generator Pro | Trial dynamic codes **deactivate after 14 days**, no-refund annual plan |
 | Me-QR | Free/low-tier codes show an **ad interstitial on every scan** |
@@ -63,7 +64,7 @@ The Pageloot articles repeatedly frame competitors around how their free/trial t
 - **[Flowcode](competitors/flowcode.md)** — Premium, design-led codes for enterprise/Fortune 1000 brands. Beautiful output; big price cliff from $25/mo to $250/mo with no middle tier.
 - **[Me-QR](competitors/me-qr.md)** — Widest QR-type breadth (46+) and free dynamic codes, but ads on scans up to $9/mo; ad-free is $15/mo. ME-Ticket event ticketing is unique.
 - **[QR Tiger](competitors/qr-tiger.md)** — The most feature-complete paid tool for individual marketers (conditional routing, GS1, Canva, API), with the best review scores (4.8/4.8). Not agency-oriented.
-- **[QR.io](competitors/qr-io.md)** — Single $35/mo plan. Strong design customization but a hard 7-day trial trap and a 1.1/5 Product Hunt score.
+- **[QR.io](competitors/qr-io.md)** — Single $39.99/mo plan. Strong design customization but a hard 7-day trial trap and a 1.1/5 Product Hunt score.
 - **[QR Code Generator Pro](competitors/qr-code-generator-pro.md)** — qr-code-generator.com (Egoditor/Bitly). Enterprise compliance angle, but 1.5/5 Trustpilot across 9,000+ reviews and a 14-day no-refund trap.
 - **[QRCode Monkey](competitors/qrcode-monkey.md)** — Free, unlimited **static** codes with free SVG and no ads — great for a code that never changes. No dynamic codes; parent product labeled "abandoned."
 - **[QRFY](competitors/qrfy.md)** — Unlimited dynamic codes make it a high-volume value pick, but no monthly billing (quarterly minimum ~$41/mo) and a 7-day trial trap.
@@ -89,7 +90,8 @@ Create your first code at **[pageloot.com](https://pageloot.com)**.
 
 - **Sources:** 11 Pageloot articles (2 roundups + 9 head-to-head "alternative" pages) — see [`SOURCES.md`](SOURCES.md).
 - **Extraction:** each article was converted to text and parsed for every product discussed with substance. Records for the same product across multiple articles were merged, preferring the dedicated head-to-head page over roundups on conflicts.
-- **Verification:** ratings and prices were checked back against the source text; any value not found in a source was dropped rather than guessed. Nothing was added from outside the source articles.
+- **Verification (source):** ratings and prices were checked back against the source text; any value not found in a source was dropped rather than guessed. Nothing was added from outside the source articles.
+- **Live re-check (2026-07-07):** headline prices and review scores were spot-checked against vendors' pricing pages and the live review platforms; corrections were applied where confidence was high, and unverifiable figures were flagged. See **[VERIFICATION.md](VERIFICATION.md)**.
 - **Not included:** tools only name-dropped without detail (e.g. QRCodeGecko) were excluded.
 
 ## Repository layout
@@ -97,6 +99,7 @@ Create your first code at **[pageloot.com](https://pageloot.com)**.
 ```
 README.md              ← this file
 SOURCES.md             ← the 11 source articles
+VERIFICATION.md        ← live fact-check log (2026-07-07)
 competitors/
   pageloot.md
   bitly.md

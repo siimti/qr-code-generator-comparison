@@ -32,9 +32,10 @@ Free plan with 2 dynamic codes and 500 scans (the Reddit roundup says roughly 50
 
 ## Ratings
 
-- **G2:** 4.6/5 (85 reviews)
-- **Trustpilot:** 3.6/5 (36 reviews)
+- **G2:** 4.6/5 (85 reviews) — confirmed 2026-07-07 (exact match)
+- **Trustpilot:** 3.6/5 (~38 reviews) — count ~38 as of 2026-07-07; the 3.6 score could not be re-verified (Trustpilot bot-blocked)
 - **Other:** No Product Hunt rating for Flowcode appears in any source. The head-to-head article lists Capterra as a review source but shows no Capterra rating value. Page-1 states review data is from Trustpilot, G2, Capterra, and Product Hunt as of April 2026, with counts rounded.
+- *Live-verified 2026-07-07 — see the [verification log](../VERIFICATION.md).*
 
 ## Pros
 
