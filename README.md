@@ -98,4 +98,6 @@ competitors/
 
 ## License
 
-Data is factual comparison information extracted from publicly published web pages for reference. Vendor names and ratings belong to their respective owners. Third-party review scores (G2, Trustpilot, Product Hunt, Capterra) are the property of those platforms and are reproduced here only as cited by the source articles.
+Released under the [MIT License](LICENSE) — free to use, copy, and adapt.
+
+Note: the MIT license covers this repository's own compilation and text. The underlying facts are extracted from publicly published web pages for reference; vendor names and third-party review scores (G2, Trustpilot, Product Hunt, Capterra) belong to their respective owners and are reproduced only as cited by the source articles.
